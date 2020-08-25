@@ -1,12 +1,13 @@
 <div align="center">
    <h1>Hi there, I'm <a href="https://www.markartishuk.com/">Mark</a>
-   <div align="center">
+   <p align="center">
     <a href="https://www.linkedin.com/in/mark-artishuk/">LinkedIn</a>
     <a href="https://www.markartishuk.com/">Personal Site</a>
-   </div>
+   </p>
+</div>
+<div align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=artish1&theme=prussian">
 </div>
-
 ### - Languages and Tools...
 
 <p align="center" style="margin-bottom: 15px;">
