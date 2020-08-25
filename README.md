@@ -1,10 +1,11 @@
 <div align="center">
    <h1>Hi there, I'm <a href="https://www.markartishuk.com/">Mark</a>
 </div>
+
 <p align="center">
-    <a href="https://www.linkedin.com/in/mark-artishuk/" style="margin:10px; font-size:18px;">LinkedIn</a>
+    <a href="https://www.linkedin.com/in/mark-artishuk/" style="margin:10px;">LinkedIn</a>
     |
-    <a href="https://www.markartishuk.com/" style="margin:10px; font-size:18px;">Personal Site</a>
+    <a href="https://www.markartishuk.com/" style="margin:10px;">Personal Site</a>
 </p>
 
 <div align="center">
@@ -26,6 +27,8 @@
  <img src="https://raw.githubusercontent.com/artish1/artish1/master/svgs/npm.svg" alt="Node Package Manager" style="vertical-align:top; margin:4px">
  <img src="https://raw.githubusercontent.com/artish1/artish1/master/svgs/visualstudio_code.svg" alt="Visual Studio Code" style="vertical-align:top; margin:4px">
 </p>
+
+---
 
 <div align="center">
     <a href="https://forthebadge.com">
