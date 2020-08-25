@@ -1,6 +1,6 @@
 # Hello, I'm Mark!
 
-<img src=https://github-readme-stats.vercel.app/api?username=artish1&theme=prussian"" />
+<img src="https://github-readme-stats.vercel.app/api?username=artish1&theme=prussian">
 
 ## Get in touch
 - [Linked-In](https://www.linkedin.com/in/mark-artishuk/)
