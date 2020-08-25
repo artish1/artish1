@@ -8,6 +8,13 @@
     <a href="https://www.markartishuk.com/" style="margin:10px;">Personal Site</a>
 </p>
 
+- 🔭 I’m currently working on [YPP-Sim](https://github.com/YPP-Sim), a puzzle pirates blockade simulator.
+- 🌱 I’m currently learning TypeScript
+- 👯 I’m looking to collaborate on anything
+- 💬 Ask me about React
+- ⚡ Fun fact: There are more fake flamingos in the world than real ones
+- 🔭 Goals: Obtain an AWS Cloud Practicioner certification and learn C# and TypeScript
+
 <div align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=artish1&theme=prussian">
 </div>
