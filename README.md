@@ -14,16 +14,17 @@
 <h3 align="center">Languages and Tools</h3>
 
 <p align="center" style="margin-bottom: 35px;">
- <img src="./svgs/html.svg" alt="HTML" style="vertical-align:top; margin:4px">
- <img src="./svgs/css3.svg" alt="CSS" style="vertical-align:top; margin:4px">
- <img src="./svgs/sass.svg" alt="SASS" style="vertical-align:top; margin:4px">
- <img src="./svgs/react.svg" alt="React" style="vertical-align:top; margin:4px">
- <img src="./svgs/js.svg" alt="JavaScript" style="vertical-align:top; margin:4px">
- <img src="./svgs/nodejs_larger.svg" alt="NodeJS" style="vertical-align:top; margin:4px">
-  <img src="./svgs/java.svg" alt="Java" style="vertical-align:top; margin:4px">
- <img src="./svgs/python.svg" alt="Python" style="vertical-align:top; margin:4px">
- <img src="./svgs/npm.svg" alt="Node Package Manager" style="vertical-align:top; margin:4px">
- <img src="./svgs/visualstudio_code.svg" alt="Visual Studio Code" style="vertical-align:top; margin:4px">
+ <img src="https://raw.githubusercontent.com/artish1/artish1/master/svgs/html.svg" alt="HTML" style="vertical-align:top; margin:4px">
+ <img src="https://raw.githubusercontent.com/artish1/artish1/master/svgs/css3.svg" alt="CSS" style="vertical-align:top; margin:4px">
+ <img src="https://raw.githubusercontent.com/artish1/artish1/master/svgs/sass.svg" alt="SASS" style="vertical-align:top; margin:4px">
+ <img src="https://raw.githubusercontent.com/artish1/artish1/master/svgs/js.svg" alt="JavaScript" style="vertical-align:top; margin:4px">
+ <img src="https://raw.githubusercontent.com/artish1/artish1/master/svgs/react.svg" alt="React" style="vertical-align:top; margin:4px">
+ <img src="https://raw.githubusercontent.com/artish1/artish1/master/svgs/docker.svg" alt="Docker" style="vertical-align:top; margin:4px">
+ <img src="https://raw.githubusercontent.com/artish1/artish1/master/svgs/nodejs_larger.svg" alt="NodeJS" style="vertical-align:top; margin:4px">
+ <img src="https://raw.githubusercontent.com/artish1/artish1/master/svgs/java.svg" alt="Java" style="vertical-align:top; margin:4px">
+ <img src="https://raw.githubusercontent.com/artish1/artish1/master/svgs/python.svg" alt="Python" style="vertical-align:top; margin:4px">
+ <img src="https://raw.githubusercontent.com/artish1/artish1/master/svgs/npm.svg" alt="Node Package Manager" style="vertical-align:top; margin:4px">
+ <img src="https://raw.githubusercontent.com/artish1/artish1/master/svgs/visualstudio_code.svg" alt="Visual Studio Code" style="vertical-align:top; margin:4px">
 </p>
 
 <div align="center">
