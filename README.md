@@ -9,11 +9,11 @@
 </p>
 
 - 🔭 I’m currently working on [YPP-Sim](https://github.com/YPP-Sim), a puzzle pirates blockade simulator.
-- 🌱 I’m currently learning TypeScript
+- 🌱 Learning to design and implement UI/UX on Figma.
 - 👯 I’m looking to collaborate on anything
 - 💬 Ask me about React
 - ⚡ Fun fact: There are more fake flamingos in the world than real ones
-- 🔭 Goals: Obtain an AWS Cloud Practitioner certification and learn C# and TypeScript
+- 🔭 Goals: Make a few big projects 
 
 <div align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=artish1&theme=prussian">
