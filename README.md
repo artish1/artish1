@@ -8,12 +8,12 @@
     <a href="https://www.markartishuk.com/" style="margin:10px;">Personal Site</a>
 </p>
 
-- 🔭 I’m currently working on [YPP-Sim](https://github.com/YPP-Sim), a puzzle pirates blockade simulator.
-- 🌱 Learning to design and implement UI/UX on Figma.
+- 🔭 I’m currently working at <a href="https://poolplayers.com/">APA (American Poolplayers Association) </a> as a Software Engineer
+- 🌱 Learning more to design and implement UI/UX using Figma.
 - 👯 I’m looking to collaborate on anything
 - 💬 Ask me about React
 - ⚡ Fun fact: There are more fake flamingos in the world than real ones
-- 🔭 Goals: Make a few big projects 
+- 🔭 Goals: Make a few big meaningful projects
 
 <div align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=artish1&theme=prussian">
